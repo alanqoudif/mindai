@@ -42,3 +42,4 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+# mindai2
